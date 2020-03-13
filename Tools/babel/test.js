@@ -1,6 +1,6 @@
 class Test {
   constructor(name) {
-    console.log(`I am a Test class... `, name);
+    console.log(`I am a Test class... ${name}`);
   }
 }
 
