@@ -1,6 +1,5 @@
 # CommonJS
 
-
 It's a project to define a common API and ecosystem for JavaScript.
 
 One part of CommonJS is the Module specification.
