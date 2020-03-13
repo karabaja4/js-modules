@@ -1,0 +1,8 @@
+{
+    "name": "es",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+    },
+    "type": "module"
+}

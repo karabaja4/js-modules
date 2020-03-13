@@ -1,0 +1,8 @@
+{
+    "name": "bbl",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@babel/preset-env": "^7.8.7"
+    }
+}
