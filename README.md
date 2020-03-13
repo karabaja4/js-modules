@@ -33,6 +33,4 @@ https://nodejs.org/api/modules.html
 
 https://babeljs.io/
 
-http://browserify.org/
-
 https://addyosmani.com/writing-modular-js/
