@@ -1,3 +1,5 @@
+// a.mjs
+
 function print1() {
   console.log('Hello from print1');
 }

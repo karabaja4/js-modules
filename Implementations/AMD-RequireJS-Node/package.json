@@ -1,8 +1,8 @@
 {
-    "name": "rjs",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {
-        "requirejs": "^2.3.6"
-    }
+  "name": "rjs",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
 }
